@@ -82,7 +82,7 @@ width: 350px;
 .btn:focus{
     outline: 0;
 }
-btn:disabled{
+.btn:disabled{
     background-color: #999;
     cursor: not-allowed;
 }
